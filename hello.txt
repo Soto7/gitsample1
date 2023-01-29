@@ -1,1 +1,3 @@
 Hello
+git branch "新しいブランチ名"：ブランチを作成
+git checkout "ブランチ名"：ブランチへ移動
